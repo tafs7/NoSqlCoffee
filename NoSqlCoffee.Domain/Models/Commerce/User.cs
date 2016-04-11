@@ -1,12 +1,8 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
+﻿using NoSqlCoffee.Domain.Common;
 
 namespace NoSqlCoffee.Domain.Models.Commerce
 {
-    public class User
+    public class User : Entity
     {
     }
 }
