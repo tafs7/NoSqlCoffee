@@ -2,7 +2,7 @@
 
 namespace NoSqlCoffee.Domain.Models.Commerce
 {
-    public class Order : Entity
+    public class Order : AggregateRoot
     {
     }
 }
